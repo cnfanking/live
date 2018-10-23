@@ -235,5 +235,4 @@ NewTV精品大剧,http://223.110.243.155:80/PLTV/3/224/3221225569/index.m3u8
 北京纪实 HD,http://223.110.243.155:80/PLTV/3/224/3221227397/index.m3u8
 上海纪实 HD 卡,http://223.110.243.155:80/PLTV/3/224/3221227395/index.m3u8
 HeartTV,https://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.m3u8?sd=10&rebase=on
-香港卫视 普清,http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8?wsSession=fbbd800d51cef16891a09804-153387038488868&wsIPSercert=2485a79720f9372cedbc34ccb2d454ee&wsMonitor=-1
-健康卫视 普清,http://live.jkwshk.tv/AppName/StreamName.m3u8
+
